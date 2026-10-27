@@ -1,0 +1,23 @@
+{
+  "name": "imovies-capstone",
+  "version": "1.0.0",
+  "description": "IMovies — Premium Full-Stack Movie Ticket Booking System (MERN)",
+  "scripts": {
+    "install:all": "npm install --prefix backend && npm install --prefix frontend",
+    "seed": "npm run seed --prefix backend",
+    "server": "npm run dev --prefix backend",
+    "client": "npm run dev --prefix frontend",
+    "dev": "npm run dev --prefix backend & npm run dev --prefix frontend",
+    "build:client": "npm run build --prefix frontend"
+  },
+  "keywords": [
+    "mern",
+    "movie-ticket-booking",
+    "react",
+    "nodejs",
+    "mongodb",
+    "express"
+  ],
+  "author": "B.Tech Computer Science Capstone",
+  "license": "ISC"
+}
