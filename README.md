@@ -1,3 +1,7 @@
+
+
+
+
 # IMovies — Premium Full-Stack Movie Ticket Booking System
 
 > **“Your seat. Your story.”**  
@@ -109,6 +113,10 @@ ADMIN_PASSWORD=Admin@123
 ```
 
 ---
+
+
+https://github.com/user-attachments/assets/029d0311-aa35-49c0-821f-fd488f4ba152
+
 
 ## 🚀 Running the Application
 DIRECT LINK 🔗
