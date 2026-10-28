@@ -5,7 +5,7 @@
 
 ---
 
-## 🌟 Highlights
+## Highlights
 
 - **Cinematic Dark Design System:** Deep midnight navy (`#070B16`), electric blue (`#3B82F6`), and cyan highlights (`#38BDF8`) with responsive glassmorphism.
 - **Atomic Concurrency Protection:** Zero double-bookings using atomic MongoDB `$nin` queries directly at the database level.
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Layer | Technologies |
 |---|---|
@@ -111,6 +111,8 @@ ADMIN_PASSWORD=Admin@123
 ---
 
 ## 🚀 Running the Application
+DIRECT LINK 🔗
+https://imoviess-4c4l3yk3i-jitu-bd5c.vercel.app/
 
 ### Option A: Run Backend and Frontend Concurrently
 From the root directory:
